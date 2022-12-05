@@ -1,4 +1,9 @@
-import socket
 
-sk = socket.socket()
-sk.connect(('localhost', 9999))
+
+import cv2
+img = cv2.imread('D:\Programing\Python\image\image.jpeg')
+cv2.imshow('Output', img)
+
+cv2.waitKey(0)
+
+import pandas
