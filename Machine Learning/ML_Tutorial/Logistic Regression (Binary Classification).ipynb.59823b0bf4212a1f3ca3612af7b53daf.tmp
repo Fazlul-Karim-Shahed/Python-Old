@@ -1,0 +1,3 @@
+plt.scatter(ds.EstimatedSalary, ds.Purchased, marker='+', color='red')
+plt.xlabel('Age')
+plt.ylabel('Purchased')

@@ -1,0 +1,2 @@
+x = ds.drop[Purchased]
+y = ds.Purchased

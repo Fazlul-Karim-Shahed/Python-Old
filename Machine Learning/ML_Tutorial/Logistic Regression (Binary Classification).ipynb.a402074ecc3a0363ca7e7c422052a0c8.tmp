@@ -1,0 +1,3 @@
+plt.scatter(ds.Age, ds.Purchased)
+plt.xlabel('Age')
+plt.xlabel('Age')
